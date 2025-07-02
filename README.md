@@ -21,7 +21,7 @@
 ## Hardare Setup
 ![top](./utils/images/side.jpg)
 ![side](./utils/images/top.jpg)
-![sensor](./utils/images/sensor.jpg)
+![sensor](./utils/images/sensor.jpg = 3072x4080)
 ![actuator](./utils/images/actuator.jpg)
 ![power](./utils/images/power.jpg)
 
