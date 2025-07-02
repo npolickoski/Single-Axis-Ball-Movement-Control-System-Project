@@ -19,7 +19,7 @@
 
 
 ## Hardare Setup
-![Ex.1 - Played Tone](./utils/images/side.jpg)
+![top](./utils/images/side.jpg)
 ![Ex.1 - Played Tone](./utils/images/top.jpg)
 ![Ex.1 - Played Tone](./utils/images/sensor.jpg)
 ![Ex.1 - Played Tone](./utils/images/actuator.jpg)
