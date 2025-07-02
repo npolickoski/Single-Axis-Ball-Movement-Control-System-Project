@@ -17,6 +17,7 @@
 - HC-SR01 Ultrasonic Sensor
 - SG90 Servo Motor
 - 9V DC Outlet Power Source
+- Switch (taken from Tickle-Me Cookie Monster doll and solderd to wires for user interaction)
 - Cardboard for structure
 - Wooden dowel for arm
 
