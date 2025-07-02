@@ -19,6 +19,9 @@
 
 
 ## Hardare Setup
-![Ex.1 - Played Tone](./utils/images/ex1_tone.png)
+![Ex.1 - Played Tone](./utils/images/side.png)
+![Ex.1 - Played Tone](./utils/images/top.png)
+![Ex.1 - Played Tone](./utils/images/sensor.png)
+![Ex.1 - Played Tone](./utils/images/actuator.png)
+![Ex.1 - Played Tone](./utils/images/power.png)
 
-Ex.1a - Played Tone
