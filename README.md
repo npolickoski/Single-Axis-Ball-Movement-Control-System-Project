@@ -1,4 +1,4 @@
-# Single-Axis-Ball-Movement-Control-System-Project
+# Single-Axis-Ball-Movement-Control-System
 **Goal:** 
 - design and implementation of ball balancing controller mechanism.
   
